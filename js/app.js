@@ -406,7 +406,7 @@ document.addEventListener('click', async e => {
   const b = e.target.closest('[data-act]');
   if (!b || b.tagName === 'INPUT') return;
   const act = b.dataset.act;
-  const week = S.weekOf(data, today);
+  const week = () => S.weekOf(data, today);
   switch (act) {
     case 'signin': D.signIn(); break;
     case 'view': ui.view = b.dataset.view; ui.tip = null; ui.swapOpen = false; render(); window.scrollTo(0, 0); break;
@@ -417,8 +417,8 @@ document.addEventListener('click', async e => {
     case 'tick': S.toggleDone(data, b.dataset.date, b.dataset.id); touched(); break;
     case 'eat': S.toggleEaten(data, b.dataset.date, b.dataset.id); touched(); break;
     case 'swap': S.setDinner(data, b.dataset.date, b.dataset.name); ui.swapOpen = false; touched(); break;
-    case 'progress': if (S.progress(data, b.dataset.id, week)) touched(); break;
-    case 'regress': if (S.regress(data, b.dataset.id, week)) touched(); break;
+    case 'progress': if (S.progress(data, b.dataset.id, week())) touched(); break;
+    case 'regress': if (S.regress(data, b.dataset.id, week())) touched(); break;
     case 'syncnow': fullSync(); break;
     case 'signout': if (confirm('Sign out and remove the copy on this device? Your Drive copy stays.')) { D.signOut(); S.clear(); data = S.emptyData(); location.reload(); } break;
     case 'export': {

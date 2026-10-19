@@ -10,8 +10,9 @@ const FILE_NAME = 'fitness-data.json';
 export const configured = () => !!CLIENT_ID && !CLIENT_ID.startsWith('PASTE');
 
 function redirectUri() {
-  // The page itself, without query or hash.
-  return location.origin + location.pathname;
+  // The app folder, without query, hash or a trailing index.html, so it always
+  // matches the redirect URI registered in Google Cloud (…/AgentFit/).
+  return location.origin + location.pathname.replace(/index\.html$/, '');
 }
 
 export function token() {

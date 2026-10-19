@@ -49,7 +49,7 @@ export function ensureStart(data, today = new Date()) {
 }
 // 1-based week number for a date
 export function weekOf(data, d) {
-  const start = fromIso(data.startMonday);
+  const start = data.startMonday ? fromIso(data.startMonday) : mondayOf(new Date());
   const m = mondayOf(d);
   return Math.floor((m - start) / 86400000 / 7) + 1;
 }

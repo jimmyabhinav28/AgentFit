@@ -1,6 +1,6 @@
 // Offline cache for the app shell. Bump VERSION whenever you change the app
 // so phones pick up the new files.
-const VERSION = 'fit-v1';
+const VERSION = 'fit-v2';
 const SHELL = ['./', './index.html', './css/styles.css', './js/app.js', './js/plan.js', './js/store.js', './js/drive.js', './js/ai.js', './js/config.js', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', e => {
