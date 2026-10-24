@@ -1,0 +1,45 @@
+# AgentFit on Cloudflare Workers: one Worker serves the PWA (public/) and the API (/api/*).
+name = "agentfit"
+main = "worker/index.js"
+compatibility_date = "2025-09-01"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = ["/api/*"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "agentfit"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"   # from: npx wrangler d1 create agentfit
+migrations_dir = "migrations"
+
+# Weekly broken-video check, Mondays 03:00 UTC (FR-LIB-06)
+[triggers]
+crons = ["0 3 * * 1"]
+
+[observability]
+enabled = true
+
+[vars]
+# Your Google OAuth "Web application" client ID (same value as public/js/config.js)
+GOOGLE_CLIENT_ID = "562462757273-jqo54n8liac3ef5vc057ma5q64jotja7.apps.googleusercontent.com"
+# Comma-separated admin emails (see /admin.html)
+ADMIN_EMAILS = "jimmyabhinav28@gmail.com"
+# Platform-key mode ("credits"): which provider and model AgentFit pays for
+PLATFORM_PROVIDER = "anthropic"
+PLATFORM_MODEL = "claude-haiku-5-5"
+CHEAP_MODEL = "claude-haiku-5-5"
+# v1 spend guardrails (V1-CR-05)
+USER_DAILY_TOKEN_CAP = "600000"
+USER_DAILY_REQUEST_CAP = "60"
+GLOBAL_DAILY_USD_CAP = "3"
+PER_MINUTE_REQUEST_CAP = "8"
+STARTER_CREDITS = "100"
+# "1" allows email-only sign-in for local testing. Never set this in production.
+DEV_AUTH = "0"
+
+# Secrets (not in this file): run once each
+#   npx wrangler secret put SESSION_SECRET      (any random 40+ character string)
+#   npx wrangler secret put PLATFORM_API_KEY    (your Anthropic API key)
+#   npx wrangler secret put ALERT_WEBHOOK_URL   (optional: Slack/Discord webhook for spend alerts)

@@ -1,0 +1,2987 @@
+{
+ "version": 1,
+ "exercises": [
+  {
+   "id": "pushup",
+   "name": "Push-up",
+   "aliases": [
+    "press-up"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "chest",
+    "triceps",
+    "front shoulders",
+    "core"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps",
+    "variation"
+   ],
+   "instructions": [
+    "Hands slightly wider than shoulders, body in one straight line.",
+    "Lower until your chest is a fist above the floor.",
+    "Press back up to straight arms."
+   ],
+   "cues": [
+    "Squeeze glutes so hips stay level",
+    "Elbows about 45° from the body"
+   ],
+   "mistakes": [
+    "Sagging hips",
+    "Half reps",
+    "Flared elbows"
+   ],
+   "tags": [
+    "push",
+    "bodyweight"
+   ],
+   "videos": []
+  },
+  {
+   "id": "knee_pushup",
+   "name": "Knee push-up",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "chest",
+    "triceps",
+    "front shoulders"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "Knees on the floor, body straight from knees to head.",
+    "Lower the chest towards the floor.",
+    "Press back up."
+   ],
+   "cues": [
+    "Keep hips in line with the body"
+   ],
+   "mistakes": [
+    "Bending at the hips"
+   ],
+   "tags": [
+    "push",
+    "bodyweight",
+    "beginner"
+   ],
+   "videos": []
+  },
+  {
+   "id": "incline_pushup",
+   "name": "Incline push-up",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "chest",
+    "triceps",
+    "front shoulders"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps",
+    "variation"
+   ],
+   "instructions": [
+    "Hands on a sturdy table, bench or step.",
+    "Walk feet back until the body is straight.",
+    "Lower the chest to the edge and press away."
+   ],
+   "cues": [
+    "Lower surface = harder"
+   ],
+   "mistakes": [
+    "Using a surface that can slide"
+   ],
+   "tags": [
+    "push",
+    "bodyweight",
+    "beginner"
+   ],
+   "videos": []
+  },
+  {
+   "id": "decline_pushup",
+   "name": "Decline push-up",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "upper chest",
+    "shoulders",
+    "triceps"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "Feet on a step or bed, hands on the floor.",
+    "Lower the chest under control.",
+    "Press back up."
+   ],
+   "cues": [
+    "Keep the core braced"
+   ],
+   "mistakes": [
+    "Head dropping first"
+   ],
+   "tags": [
+    "push",
+    "bodyweight",
+    "advanced"
+   ],
+   "videos": []
+  },
+  {
+   "id": "pike_pushup",
+   "name": "Pike push-up",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "shoulders",
+    "triceps"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps",
+    "variation"
+   ],
+   "instructions": [
+    "Hips high in an inverted V.",
+    "Bend the elbows to bring the head towards the floor between the hands.",
+    "Press back up."
+   ],
+   "cues": [
+    "Look at your feet"
+   ],
+   "mistakes": [
+    "Turning it into a regular push-up"
+   ],
+   "tags": [
+    "push",
+    "bodyweight"
+   ],
+   "videos": []
+  },
+  {
+   "id": "diamond_pushup",
+   "name": "Diamond push-up",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "triceps",
+    "chest"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "Hands together under the chest, thumbs and fingers forming a diamond.",
+    "Lower with elbows close to the ribs.",
+    "Press up."
+   ],
+   "cues": [
+    "Elbows stay tucked"
+   ],
+   "mistakes": [
+    "Hips sagging"
+   ],
+   "tags": [
+    "push",
+    "arms",
+    "bodyweight"
+   ],
+   "videos": []
+  },
+  {
+   "id": "chair_dip",
+   "name": "Chair dip",
+   "aliases": [
+    "bench dip"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "triceps",
+    "chest"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "Hands on the edge of a sturdy chair behind you, legs out.",
+    "Bend the elbows to about 90°.",
+    "Press back up."
+   ],
+   "cues": [
+    "Shoulders down, away from ears"
+   ],
+   "mistakes": [
+    "Going too deep with sore shoulders"
+   ],
+   "tags": [
+    "push",
+    "arms",
+    "bodyweight"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_bench_press",
+   "name": "Dumbbell bench press",
+   "aliases": [
+    "dumbbell chest press"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "chest",
+    "triceps",
+    "front shoulders"
+   ],
+   "equipment": [
+    "dumbbell",
+    "bench"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Lie on the bench, dumbbells over the chest.",
+    "Lower to chest level, elbows about 45°.",
+    "Press back up until arms are straight."
+   ],
+   "cues": [
+    "Feet planted, shoulder blades squeezed"
+   ],
+   "mistakes": [
+    "Bouncing at the bottom"
+   ],
+   "tags": [
+    "push"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_floor_press",
+   "name": "Dumbbell floor press",
+   "aliases": [
+    "chest press on the floor"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "chest",
+    "triceps"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Lie on the floor, knees bent, dumbbells over the chest.",
+    "Lower until the upper arms touch the floor.",
+    "Press up."
+   ],
+   "cues": [
+    "Pause briefly on the floor"
+   ],
+   "mistakes": [
+    "Letting elbows crash down"
+   ],
+   "tags": [
+    "push"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_incline_press",
+   "name": "Incline dumbbell press",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "upper chest",
+    "shoulders"
+   ],
+   "equipment": [
+    "dumbbell",
+    "bench"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Bench at 30–45°.",
+    "Lower dumbbells to upper chest.",
+    "Press up and slightly in."
+   ],
+   "cues": [
+    "Wrists stacked over elbows"
+   ],
+   "mistakes": [
+    "Too steep an angle"
+   ],
+   "tags": [
+    "push"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_fly",
+   "name": "Dumbbell fly",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "chest"
+   ],
+   "equipment": [
+    "dumbbell",
+    "bench"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Lie on the bench, arms up with a soft bend.",
+    "Open the arms wide in an arc.",
+    "Squeeze back together."
+   ],
+   "cues": [
+    "Keep the elbow bend fixed"
+   ],
+   "mistakes": [
+    "Going too heavy"
+   ],
+   "tags": [
+    "push"
+   ],
+   "videos": []
+  },
+  {
+   "id": "barbell_bench_press",
+   "name": "Barbell bench press",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "chest",
+    "triceps",
+    "shoulders"
+   ],
+   "equipment": [
+    "barbell",
+    "bench"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Grip slightly wider than shoulders.",
+    "Lower the bar to mid-chest.",
+    "Press to straight arms."
+   ],
+   "cues": [
+    "Use a spotter or safety pins"
+   ],
+   "mistakes": [
+    "Bouncing the bar"
+   ],
+   "tags": [
+    "push",
+    "gym"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_overhead_press",
+   "name": "Dumbbell overhead press",
+   "aliases": [
+    "shoulder press"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "shoulders",
+    "triceps"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Dumbbells at shoulder height.",
+    "Press overhead to straight arms.",
+    "Lower under control."
+   ],
+   "cues": [
+    "Ribs down, glutes tight"
+   ],
+   "mistakes": [
+    "Arching the lower back"
+   ],
+   "tags": [
+    "push"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_lateral_raise",
+   "name": "Lateral raise",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "side shoulders"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Dumbbells at your sides.",
+    "Raise out to shoulder height, slight bend in elbows.",
+    "Lower slowly."
+   ],
+   "cues": [
+    "Lead with the elbows"
+   ],
+   "mistakes": [
+    "Swinging"
+   ],
+   "tags": [
+    "push",
+    "shoulders"
+   ],
+   "videos": []
+  },
+  {
+   "id": "band_chest_press",
+   "name": "Band chest press",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "chest",
+    "triceps"
+   ],
+   "equipment": [
+    "band"
+   ],
+   "progressionTypes": [
+    "variation",
+    "reps"
+   ],
+   "instructions": [
+    "Band behind your back at chest height.",
+    "Press forward to straight arms.",
+    "Return slowly."
+   ],
+   "cues": [
+    "Stagger the stance for balance"
+   ],
+   "mistakes": [
+    "Letting the band snap back"
+   ],
+   "tags": [
+    "push",
+    "band"
+   ],
+   "videos": []
+  },
+  {
+   "id": "pullup",
+   "name": "Pull-up",
+   "aliases": [
+    "chin-up bar pull-up"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "lats",
+    "upper back",
+    "biceps",
+    "grip"
+   ],
+   "equipment": [
+    "pullup_bar"
+   ],
+   "progressionTypes": [
+    "reps",
+    "load",
+    "variation"
+   ],
+   "instructions": [
+    "Hang from the bar, hands just wider than shoulders, palms away.",
+    "Pull until the chin clears the bar.",
+    "Lower to straight arms."
+   ],
+   "cues": [
+    "Start each rep by pulling the shoulders down"
+   ],
+   "mistakes": [
+    "Kipping",
+    "Half reps"
+   ],
+   "tags": [
+    "pull"
+   ],
+   "videos": []
+  },
+  {
+   "id": "weighted_pullup",
+   "name": "Weighted pull-up",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "lats",
+    "upper back",
+    "biceps",
+    "grip"
+   ],
+   "equipment": [
+    "pullup_bar",
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Hold a dumbbell between the feet or use a belt.",
+    "Pull until the chin clears the bar.",
+    "Lower fully."
+   ],
+   "cues": [
+    "Only once 10+ clean pull-ups are easy"
+   ],
+   "mistakes": [
+    "Swinging the weight"
+   ],
+   "tags": [
+    "pull",
+    "advanced"
+   ],
+   "videos": []
+  },
+  {
+   "id": "band_assisted_pullup",
+   "name": "Band-assisted pull-up",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "lats",
+    "upper back",
+    "biceps"
+   ],
+   "equipment": [
+    "pullup_bar",
+    "band"
+   ],
+   "progressionTypes": [
+    "variation",
+    "reps"
+   ],
+   "instructions": [
+    "Loop a band over the bar and put a knee or foot in it.",
+    "Pull up until the chin clears the bar.",
+    "Lower under control."
+   ],
+   "cues": [
+    "Thinner band = harder"
+   ],
+   "mistakes": [
+    "Bouncing out of the bottom"
+   ],
+   "tags": [
+    "pull",
+    "beginner"
+   ],
+   "videos": []
+  },
+  {
+   "id": "negative_pullup",
+   "name": "Negative pull-up",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "lats",
+    "biceps"
+   ],
+   "equipment": [
+    "pullup_bar"
+   ],
+   "progressionTypes": [
+    "reps",
+    "duration"
+   ],
+   "instructions": [
+    "Jump or step to the top position.",
+    "Lower yourself as slowly as you can.",
+    "Reset and repeat."
+   ],
+   "cues": [
+    "Aim for 3–5 seconds down"
+   ],
+   "mistakes": [
+    "Dropping fast at the end"
+   ],
+   "tags": [
+    "pull",
+    "beginner"
+   ],
+   "videos": []
+  },
+  {
+   "id": "chinup",
+   "name": "Chin-up",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "lats",
+    "biceps"
+   ],
+   "equipment": [
+    "pullup_bar"
+   ],
+   "progressionTypes": [
+    "reps",
+    "load"
+   ],
+   "instructions": [
+    "Palms facing you, shoulder width.",
+    "Pull until the chin clears the bar.",
+    "Lower fully."
+   ],
+   "cues": [
+    "Chest towards the bar"
+   ],
+   "mistakes": [
+    "Craning the neck"
+   ],
+   "tags": [
+    "pull"
+   ],
+   "videos": []
+  },
+  {
+   "id": "dead_hang",
+   "name": "Dead hang",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "grip",
+    "shoulders"
+   ],
+   "equipment": [
+    "pullup_bar"
+   ],
+   "progressionTypes": [
+    "duration"
+   ],
+   "instructions": [
+    "Hang from the bar with straight arms.",
+    "Shoulders active, not shrugged to the ears.",
+    "Hold for time."
+   ],
+   "cues": [
+    "Breathe slowly"
+   ],
+   "mistakes": [
+    "Letting go abruptly"
+   ],
+   "tags": [
+    "pull",
+    "grip"
+   ],
+   "videos": []
+  },
+  {
+   "id": "inverted_row",
+   "name": "Inverted row",
+   "aliases": [
+    "table row"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "upper back",
+    "biceps"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps",
+    "variation"
+   ],
+   "instructions": [
+    "Lie under a sturdy table, grip the edge.",
+    "Body straight, pull the chest to the edge.",
+    "Lower slowly."
+   ],
+   "cues": [
+    "Check the table is stable first"
+   ],
+   "mistakes": [
+    "Hips sagging"
+   ],
+   "tags": [
+    "pull",
+    "bodyweight"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_row",
+   "name": "Single-arm dumbbell row",
+   "aliases": [
+    "dumbbell row"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "lats",
+    "upper back",
+    "biceps"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "One hand and knee on a bench or chair, back flat.",
+    "Pull the dumbbell to your hip.",
+    "Lower to a full stretch."
+   ],
+   "cues": [
+    "Elbow close to the body"
+   ],
+   "mistakes": [
+    "Twisting the torso"
+   ],
+   "tags": [
+    "pull"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_bent_over_row",
+   "name": "Bent-over dumbbell row",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "upper back",
+    "lats"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Hinge forward, back flat, dumbbells hanging.",
+    "Row both to the ribs.",
+    "Lower slowly."
+   ],
+   "cues": [
+    "Neck in line with the spine"
+   ],
+   "mistakes": [
+    "Rounding the back"
+   ],
+   "tags": [
+    "pull"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_pullover",
+   "name": "Dumbbell pullover",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "lats",
+    "chest"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Lie on a bench or the floor holding one dumbbell over the chest.",
+    "Lower it in an arc behind the head.",
+    "Pull it back over the chest."
+   ],
+   "cues": [
+    "Slight bend in the elbows"
+   ],
+   "mistakes": [
+    "Arching the lower back"
+   ],
+   "tags": [
+    "pull"
+   ],
+   "videos": []
+  },
+  {
+   "id": "band_row",
+   "name": "Band row",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "upper back",
+    "lats",
+    "biceps"
+   ],
+   "equipment": [
+    "band"
+   ],
+   "progressionTypes": [
+    "variation",
+    "reps"
+   ],
+   "instructions": [
+    "Anchor the band at chest height or loop it round your feet.",
+    "Pull the hands to the ribs.",
+    "Return slowly."
+   ],
+   "cues": [
+    "Squeeze the shoulder blades"
+   ],
+   "mistakes": [
+    "Shrugging"
+   ],
+   "tags": [
+    "pull",
+    "band"
+   ],
+   "videos": []
+  },
+  {
+   "id": "band_pull_apart",
+   "name": "Band pull-apart",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "rear shoulders",
+    "upper back"
+   ],
+   "equipment": [
+    "band"
+   ],
+   "progressionTypes": [
+    "variation",
+    "reps"
+   ],
+   "instructions": [
+    "Hold the band at shoulder height, arms straight.",
+    "Pull it apart to the chest.",
+    "Return slowly."
+   ],
+   "cues": [
+    "Ribs down"
+   ],
+   "mistakes": [
+    "Bending the elbows a lot"
+   ],
+   "tags": [
+    "pull",
+    "band",
+    "posture"
+   ],
+   "videos": []
+  },
+  {
+   "id": "band_face_pull",
+   "name": "Band face pull",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "rear shoulders",
+    "rotator cuff"
+   ],
+   "equipment": [
+    "band"
+   ],
+   "progressionTypes": [
+    "variation",
+    "reps"
+   ],
+   "instructions": [
+    "Anchor the band at head height.",
+    "Pull towards the forehead, elbows high.",
+    "Return slowly."
+   ],
+   "cues": [
+    "Finish with thumbs pointing back"
+   ],
+   "mistakes": [
+    "Leaning back"
+   ],
+   "tags": [
+    "pull",
+    "band",
+    "shoulders"
+   ],
+   "videos": []
+  },
+  {
+   "id": "lat_pulldown",
+   "name": "Lat pulldown",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "lats",
+    "biceps"
+   ],
+   "equipment": [
+    "gym_machine"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Sit with thighs under the pad.",
+    "Pull the bar to the upper chest.",
+    "Return with control."
+   ],
+   "cues": [
+    "Lean back slightly"
+   ],
+   "mistakes": [
+    "Pulling behind the neck"
+   ],
+   "tags": [
+    "pull",
+    "gym"
+   ],
+   "videos": []
+  },
+  {
+   "id": "barbell_row",
+   "name": "Barbell row",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "upper back",
+    "lats"
+   ],
+   "equipment": [
+    "barbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Hinge forward, back flat.",
+    "Row the bar to the lower ribs.",
+    "Lower under control."
+   ],
+   "cues": [
+    "Brace the core"
+   ],
+   "mistakes": [
+    "Jerking the weight"
+   ],
+   "tags": [
+    "pull",
+    "gym"
+   ],
+   "videos": []
+  },
+  {
+   "id": "farmer_hold",
+   "name": "Farmer's hold",
+   "aliases": [
+    "farmer's walk"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "grip",
+    "traps",
+    "core"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load",
+    "duration"
+   ],
+   "instructions": [
+    "Stand tall with a heavy dumbbell in each hand.",
+    "Shoulders back, grip hard.",
+    "Hold or walk for time."
+   ],
+   "cues": [
+    "Breathe; do not shrug"
+   ],
+   "mistakes": [
+    "Leaning to one side"
+   ],
+   "tags": [
+    "pull",
+    "grip"
+   ],
+   "videos": []
+  },
+  {
+   "id": "bodyweight_squat",
+   "name": "Bodyweight squat",
+   "aliases": [
+    "air squat"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "Feet shoulder width apart.",
+    "Sit down between your heels, chest up.",
+    "Stand tall."
+   ],
+   "cues": [
+    "Knees track over toes"
+   ],
+   "mistakes": [
+    "Heels lifting"
+   ],
+   "tags": [
+    "legs",
+    "bodyweight",
+    "beginner"
+   ],
+   "videos": []
+  },
+  {
+   "id": "goblet_squat",
+   "name": "Goblet squat",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "quads",
+    "glutes",
+    "core"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Hold one dumbbell vertically against the chest.",
+    "Squat between your heels.",
+    "Drive up through the whole foot."
+   ],
+   "cues": [
+    "Elbows inside the knees at the bottom"
+   ],
+   "mistakes": [
+    "Rounding the back"
+   ],
+   "tags": [
+    "legs"
+   ],
+   "videos": []
+  },
+  {
+   "id": "kb_goblet_squat",
+   "name": "Kettlebell goblet squat",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "equipment": [
+    "kettlebell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Hold the kettlebell by the horns at the chest.",
+    "Squat between your heels.",
+    "Stand tall."
+   ],
+   "cues": [
+    "Chest up"
+   ],
+   "mistakes": [
+    "Knees caving in"
+   ],
+   "tags": [
+    "legs"
+   ],
+   "videos": []
+  },
+  {
+   "id": "reverse_lunge",
+   "name": "Reverse lunge",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "Step one foot back.",
+    "Lower until both knees are about 90°.",
+    "Push back to standing; alternate."
+   ],
+   "cues": [
+    "Front knee over the ankle"
+   ],
+   "mistakes": [
+    "Short steps"
+   ],
+   "tags": [
+    "legs",
+    "bodyweight"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_lunge",
+   "name": "Dumbbell lunge",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Dumbbells at your sides.",
+    "Step back or forward into a lunge.",
+    "Drive back up; alternate legs."
+   ],
+   "cues": [
+    "Torso upright"
+   ],
+   "mistakes": [
+    "Knee slamming the floor"
+   ],
+   "tags": [
+    "legs"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_split_squat",
+   "name": "Dumbbell split squat",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Staggered stance, dumbbells at your sides.",
+    "Lower the back knee towards the floor.",
+    "Stand up; finish one side then switch."
+   ],
+   "cues": [
+    "Weight over the front foot"
+   ],
+   "mistakes": [
+    "Back knee doing the work"
+   ],
+   "tags": [
+    "legs"
+   ],
+   "videos": []
+  },
+  {
+   "id": "bulgarian_split_squat",
+   "name": "Bulgarian split squat",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load",
+    "reps"
+   ],
+   "instructions": [
+    "Back foot on a bench or chair.",
+    "Lower straight down.",
+    "Drive up through the front heel."
+   ],
+   "cues": [
+    "Hop the front foot out far enough"
+   ],
+   "mistakes": [
+    "Leaning forward too much"
+   ],
+   "tags": [
+    "legs",
+    "advanced"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_rdl",
+   "name": "Dumbbell Romanian deadlift",
+   "aliases": [
+    "RDL"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "hamstrings",
+    "glutes",
+    "back"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Dumbbells in front of the thighs.",
+    "Hinge at the hips, soft knees, back flat.",
+    "Stand by squeezing the glutes."
+   ],
+   "cues": [
+    "Dumbbells slide down the legs"
+   ],
+   "mistakes": [
+    "Rounding the back"
+   ],
+   "tags": [
+    "legs",
+    "hinge"
+   ],
+   "videos": []
+  },
+  {
+   "id": "glute_bridge",
+   "name": "Glute bridge",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "glutes",
+    "hamstrings"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "reps",
+    "duration"
+   ],
+   "instructions": [
+    "Lie on your back, knees bent, feet flat.",
+    "Drive hips up until in line with the knees.",
+    "Lower slowly."
+   ],
+   "cues": [
+    "Squeeze glutes at the top"
+   ],
+   "mistakes": [
+    "Arching the lower back"
+   ],
+   "tags": [
+    "legs",
+    "bodyweight",
+    "beginner"
+   ],
+   "videos": []
+  },
+  {
+   "id": "single_leg_glute_bridge",
+   "name": "Single-leg glute bridge",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "glutes",
+    "hamstrings"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "One foot down, other leg straight.",
+    "Drive the hips up.",
+    "Lower; finish one side then switch."
+   ],
+   "cues": [
+    "Hips stay level"
+   ],
+   "mistakes": [
+    "Twisting"
+   ],
+   "tags": [
+    "legs",
+    "bodyweight"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_hip_thrust",
+   "name": "Dumbbell hip thrust",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "glutes"
+   ],
+   "equipment": [
+    "dumbbell",
+    "bench"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Upper back on a bench, dumbbell on the hips.",
+    "Drive hips up to a straight line.",
+    "Lower under control."
+   ],
+   "cues": [
+    "Chin tucked"
+   ],
+   "mistakes": [
+    "Hyperextending the back"
+   ],
+   "tags": [
+    "legs"
+   ],
+   "videos": []
+  },
+  {
+   "id": "step_up",
+   "name": "Step-up",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps",
+    "load"
+   ],
+   "instructions": [
+    "Stand facing a sturdy step or bench.",
+    "Step up and stand tall.",
+    "Step down slowly; alternate."
+   ],
+   "cues": [
+    "Push through the top foot only"
+   ],
+   "mistakes": [
+    "Pushing off the bottom foot"
+   ],
+   "tags": [
+    "legs"
+   ],
+   "videos": []
+  },
+  {
+   "id": "wall_sit",
+   "name": "Wall sit",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "quads"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "duration"
+   ],
+   "instructions": [
+    "Back flat on a wall.",
+    "Slide down until thighs are parallel to the floor.",
+    "Hold."
+   ],
+   "cues": [
+    "Knees over ankles"
+   ],
+   "mistakes": [
+    "Hands on the thighs"
+   ],
+   "tags": [
+    "legs",
+    "isometric"
+   ],
+   "videos": []
+  },
+  {
+   "id": "calf_raise",
+   "name": "Calf raise",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "calves"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "Stand on a step edge, heels hanging.",
+    "Rise onto the toes.",
+    "Lower below the step."
+   ],
+   "cues": [
+    "Pause at the top"
+   ],
+   "mistakes": [
+    "Bouncing"
+   ],
+   "tags": [
+    "legs"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_calf_raise",
+   "name": "Dumbbell calf raise",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "calves"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Hold dumbbells, stand on a step edge.",
+    "Rise onto the toes.",
+    "Lower slowly."
+   ],
+   "cues": [
+    "Full range"
+   ],
+   "mistakes": [
+    "Bent knees"
+   ],
+   "tags": [
+    "legs"
+   ],
+   "videos": []
+  },
+  {
+   "id": "kb_swing",
+   "name": "Kettlebell swing",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "glutes",
+    "hamstrings",
+    "back"
+   ],
+   "equipment": [
+    "kettlebell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Hinge and hike the bell between the legs.",
+    "Snap the hips forward to float it to chest height.",
+    "Let it fall and hinge again."
+   ],
+   "cues": [
+    "Power comes from the hips"
+   ],
+   "mistakes": [
+    "Squatting the swing",
+    "Lifting with the arms"
+   ],
+   "tags": [
+    "legs",
+    "hinge",
+    "power"
+   ],
+   "videos": []
+  },
+  {
+   "id": "barbell_squat",
+   "name": "Barbell back squat",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "quads",
+    "glutes",
+    "back"
+   ],
+   "equipment": [
+    "barbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Bar on the upper back.",
+    "Squat to depth with a braced core.",
+    "Drive up."
+   ],
+   "cues": [
+    "Use safety pins"
+   ],
+   "mistakes": [
+    "Knees caving"
+   ],
+   "tags": [
+    "legs",
+    "gym"
+   ],
+   "videos": []
+  },
+  {
+   "id": "barbell_deadlift",
+   "name": "Barbell deadlift",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "hamstrings",
+    "glutes",
+    "back"
+   ],
+   "equipment": [
+    "barbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Bar over mid-foot, grip outside the knees.",
+    "Brace and stand up, bar close to the legs.",
+    "Lower the same path."
+   ],
+   "cues": [
+    "Push the floor away"
+   ],
+   "mistakes": [
+    "Rounding the lower back"
+   ],
+   "tags": [
+    "legs",
+    "hinge",
+    "gym"
+   ],
+   "videos": []
+  },
+  {
+   "id": "leg_press",
+   "name": "Leg press",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "quads",
+    "glutes"
+   ],
+   "equipment": [
+    "gym_machine"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Feet shoulder width on the plate.",
+    "Lower until knees are about 90°.",
+    "Press without locking the knees."
+   ],
+   "cues": [
+    "Lower back on the pad"
+   ],
+   "mistakes": [
+    "Locking out hard"
+   ],
+   "tags": [
+    "legs",
+    "gym"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_bicep_curl",
+   "name": "Bicep curl",
+   "aliases": [
+    "dumbbell curl"
+   ],
+   "category": "Strength",
+   "muscles": [
+    "biceps"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Dumbbells at your sides, palms forward.",
+    "Curl up without swinging.",
+    "Lower slowly."
+   ],
+   "cues": [
+    "Elbows pinned to your sides"
+   ],
+   "mistakes": [
+    "Swinging the body"
+   ],
+   "tags": [
+    "arms"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_hammer_curl",
+   "name": "Hammer curl",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "biceps",
+    "forearms"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Palms facing each other.",
+    "Curl up.",
+    "Lower slowly."
+   ],
+   "cues": [
+    "Wrists neutral"
+   ],
+   "mistakes": [
+    "Swinging"
+   ],
+   "tags": [
+    "arms"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_tricep_kickback",
+   "name": "Triceps kickback",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "triceps"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Hinge forward, upper arm parallel to the floor.",
+    "Straighten the elbow fully and squeeze.",
+    "Return slowly."
+   ],
+   "cues": [
+    "Upper arm stays still"
+   ],
+   "mistakes": [
+    "Swinging the dumbbell"
+   ],
+   "tags": [
+    "arms"
+   ],
+   "videos": []
+  },
+  {
+   "id": "db_overhead_tricep_extension",
+   "name": "Overhead triceps extension",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "triceps"
+   ],
+   "equipment": [
+    "dumbbell"
+   ],
+   "progressionTypes": [
+    "load"
+   ],
+   "instructions": [
+    "Hold one dumbbell overhead with both hands.",
+    "Lower behind the head.",
+    "Extend back up."
+   ],
+   "cues": [
+    "Elbows point forward"
+   ],
+   "mistakes": [
+    "Flaring elbows"
+   ],
+   "tags": [
+    "arms"
+   ],
+   "videos": []
+  },
+  {
+   "id": "band_curl",
+   "name": "Band curl",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "biceps"
+   ],
+   "equipment": [
+    "band"
+   ],
+   "progressionTypes": [
+    "variation",
+    "reps"
+   ],
+   "instructions": [
+    "Stand on the band, handles in hand.",
+    "Curl up.",
+    "Lower slowly."
+   ],
+   "cues": [
+    "Elbows still"
+   ],
+   "mistakes": [
+    "Leaning back"
+   ],
+   "tags": [
+    "arms",
+    "band"
+   ],
+   "videos": []
+  },
+  {
+   "id": "plank",
+   "name": "Plank",
+   "aliases": [],
+   "category": "Core",
+   "muscles": [
+    "abs",
+    "deep core",
+    "shoulders"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "duration"
+   ],
+   "instructions": [
+    "Forearms down, elbows under shoulders.",
+    "Body in one straight line, glutes squeezed.",
+    "Hold and breathe."
+   ],
+   "cues": [
+    "Push the floor away"
+   ],
+   "mistakes": [
+    "Hips too high or sagging"
+   ],
+   "tags": [
+    "core",
+    "isometric"
+   ],
+   "videos": []
+  },
+  {
+   "id": "side_plank",
+   "name": "Side plank",
+   "aliases": [],
+   "category": "Core",
+   "muscles": [
+    "obliques",
+    "hips"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "duration"
+   ],
+   "instructions": [
+    "Elbow under the shoulder, legs stacked.",
+    "Lift the hips into a straight line.",
+    "Hold; do both sides."
+   ],
+   "cues": [
+    "Top hip forward slightly"
+   ],
+   "mistakes": [
+    "Hips dropping"
+   ],
+   "tags": [
+    "core",
+    "isometric"
+   ],
+   "videos": []
+  },
+  {
+   "id": "dead_bug",
+   "name": "Dead bug",
+   "aliases": [],
+   "category": "Core",
+   "muscles": [
+    "deep core"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "On your back, arms up, knees over hips.",
+    "Lower opposite arm and leg while the lower back stays down.",
+    "Return; alternate."
+   ],
+   "cues": [
+    "Exhale as you extend"
+   ],
+   "mistakes": [
+    "Lower back lifting"
+   ],
+   "tags": [
+    "core",
+    "beginner"
+   ],
+   "videos": []
+  },
+  {
+   "id": "bird_dog",
+   "name": "Bird dog",
+   "aliases": [],
+   "category": "Core",
+   "muscles": [
+    "deep core",
+    "glutes",
+    "back"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "On hands and knees.",
+    "Reach opposite arm and leg long.",
+    "Hold a second; alternate."
+   ],
+   "cues": [
+    "Keep the hips level"
+   ],
+   "mistakes": [
+    "Rushing"
+   ],
+   "tags": [
+    "core",
+    "beginner"
+   ],
+   "videos": []
+  },
+  {
+   "id": "hollow_hold",
+   "name": "Hollow hold",
+   "aliases": [],
+   "category": "Core",
+   "muscles": [
+    "abs"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "duration"
+   ],
+   "instructions": [
+    "On your back, lower back pressed down.",
+    "Lift shoulders and legs a few inches.",
+    "Hold."
+   ],
+   "cues": [
+    "Bend the knees to make it easier"
+   ],
+   "mistakes": [
+    "Lower back arching"
+   ],
+   "tags": [
+    "core",
+    "isometric"
+   ],
+   "videos": []
+  },
+  {
+   "id": "leg_raise",
+   "name": "Leg raise",
+   "aliases": [],
+   "category": "Core",
+   "muscles": [
+    "lower abs",
+    "hip flexors"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "reps",
+    "variation"
+   ],
+   "instructions": [
+    "On your back, hands under the hips.",
+    "Raise the legs to vertical.",
+    "Lower without arching the back."
+   ],
+   "cues": [
+    "Slow on the way down"
+   ],
+   "mistakes": [
+    "Using momentum"
+   ],
+   "tags": [
+    "core"
+   ],
+   "videos": []
+  },
+  {
+   "id": "russian_twist",
+   "name": "Russian twist",
+   "aliases": [],
+   "category": "Core",
+   "muscles": [
+    "obliques"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "reps",
+    "load"
+   ],
+   "instructions": [
+    "Sit leaning back, feet down or raised.",
+    "Rotate the torso side to side.",
+    "Optionally hold a dumbbell."
+   ],
+   "cues": [
+    "Rotate from the ribs"
+   ],
+   "mistakes": [
+    "Rounding the back"
+   ],
+   "tags": [
+    "core"
+   ],
+   "videos": []
+  },
+  {
+   "id": "mountain_climber",
+   "name": "Mountain climber",
+   "aliases": [],
+   "category": "Core",
+   "muscles": [
+    "core",
+    "shoulders",
+    "conditioning"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "duration",
+    "reps"
+   ],
+   "instructions": [
+    "Start in a push-up position.",
+    "Drive knees towards the chest alternately.",
+    "Keep hips low."
+   ],
+   "cues": [
+    "Steady rhythm"
+   ],
+   "mistakes": [
+    "Hips bouncing"
+   ],
+   "tags": [
+    "core",
+    "conditioning"
+   ],
+   "videos": []
+  },
+  {
+   "id": "bicycle_crunch",
+   "name": "Bicycle crunch",
+   "aliases": [],
+   "category": "Core",
+   "muscles": [
+    "abs",
+    "obliques"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "On your back, hands by the head.",
+    "Bring opposite elbow and knee together.",
+    "Alternate slowly."
+   ],
+   "cues": [
+    "Do not pull on the neck"
+   ],
+   "mistakes": [
+    "Rushing"
+   ],
+   "tags": [
+    "core"
+   ],
+   "videos": []
+  },
+  {
+   "id": "pallof_press",
+   "name": "Band Pallof press",
+   "aliases": [],
+   "category": "Core",
+   "muscles": [
+    "obliques",
+    "deep core"
+   ],
+   "equipment": [
+    "band"
+   ],
+   "progressionTypes": [
+    "variation",
+    "reps"
+   ],
+   "instructions": [
+    "Band anchored at chest height to your side.",
+    "Press the hands straight out and resist the twist.",
+    "Return."
+   ],
+   "cues": [
+    "Hips and shoulders square"
+   ],
+   "mistakes": [
+    "Rotating towards the anchor"
+   ],
+   "tags": [
+    "core",
+    "band"
+   ],
+   "videos": []
+  },
+  {
+   "id": "brisk_walk",
+   "name": "Brisk walk",
+   "aliases": [],
+   "category": "Cardio",
+   "muscles": [
+    "heart and lungs",
+    "legs"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "duration",
+    "distance"
+   ],
+   "instructions": [
+    "Walk at a pace where talking is possible but singing is not.",
+    "Swing the arms.",
+    "Keep going for the time."
+   ],
+   "cues": [
+    "Tall posture"
+   ],
+   "mistakes": [
+    "Starting too fast"
+   ],
+   "tags": [
+    "cardio",
+    "low-impact",
+    "beginner"
+   ],
+   "videos": []
+  },
+  {
+   "id": "easy_jog",
+   "name": "Easy jog",
+   "aliases": [],
+   "category": "Running",
+   "muscles": [
+    "heart and lungs",
+    "legs"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "duration",
+    "distance",
+    "pace"
+   ],
+   "instructions": [
+    "Warm up with 3 minutes of brisk walking.",
+    "Jog at a conversational pace.",
+    "Walk breaks are fine early on."
+   ],
+   "cues": [
+    "Short, quick steps"
+   ],
+   "mistakes": [
+    "Going too fast"
+   ],
+   "tags": [
+    "cardio",
+    "running"
+   ],
+   "videos": []
+  },
+  {
+   "id": "run_walk_intervals",
+   "name": "Run–walk intervals",
+   "aliases": [],
+   "category": "Running",
+   "muscles": [
+    "heart and lungs",
+    "legs"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "duration",
+    "variation"
+   ],
+   "instructions": [
+    "Alternate running and walking for set times.",
+    "Run at an easy pace.",
+    "Walk briskly to recover."
+   ],
+   "cues": [
+    "Finish feeling you could do more"
+   ],
+   "mistakes": [
+    "Sprinting the run parts"
+   ],
+   "tags": [
+    "cardio",
+    "running",
+    "beginner"
+   ],
+   "videos": []
+  },
+  {
+   "id": "tempo_run",
+   "name": "Tempo run",
+   "aliases": [],
+   "category": "Running",
+   "muscles": [
+    "heart and lungs",
+    "legs"
+   ],
+   "equipment": [
+    "track"
+   ],
+   "progressionTypes": [
+    "distance",
+    "pace"
+   ],
+   "instructions": [
+    "Warm up 10 minutes.",
+    "Run the distance at a comfortably hard pace.",
+    "Cool down with easy jogging."
+   ],
+   "cues": [
+    "Even pacing"
+   ],
+   "mistakes": [
+    "Starting too fast"
+   ],
+   "tags": [
+    "cardio",
+    "running"
+   ],
+   "videos": []
+  },
+  {
+   "id": "sprint_intervals",
+   "name": "Sprint intervals",
+   "aliases": [],
+   "category": "Running",
+   "muscles": [
+    "legs",
+    "power",
+    "heart and lungs"
+   ],
+   "equipment": [
+    "track"
+   ],
+   "progressionTypes": [
+    "distance",
+    "pace"
+   ],
+   "instructions": [
+    "Warm up 10 minutes with jogging and drills (high knees, A-skips, leg swings).",
+    "Run each rep hard.",
+    "Walk back to recover fully."
+   ],
+   "cues": [
+    "Relaxed shoulders, drive the knees"
+   ],
+   "mistakes": [
+    "Skipping the warm-up"
+   ],
+   "tags": [
+    "running",
+    "speed"
+   ],
+   "videos": []
+  },
+  {
+   "id": "sprint_then_jog",
+   "name": "Sprint then jog",
+   "aliases": [],
+   "category": "Running",
+   "muscles": [
+    "legs",
+    "heart and lungs"
+   ],
+   "equipment": [
+    "track"
+   ],
+   "progressionTypes": [
+    "distance",
+    "pace"
+   ],
+   "instructions": [
+    "Warm up thoroughly.",
+    "Sprint the set distance.",
+    "Go straight into a steady jog for the jog distance."
+   ],
+   "cues": [
+    "Settle the breathing in the first minute of the jog"
+   ],
+   "mistakes": [
+    "Stopping between"
+   ],
+   "tags": [
+    "running",
+    "speed",
+    "endurance"
+   ],
+   "videos": []
+  },
+  {
+   "id": "treadmill_run",
+   "name": "Treadmill run",
+   "aliases": [],
+   "category": "Running",
+   "muscles": [
+    "heart and lungs",
+    "legs"
+   ],
+   "equipment": [
+    "treadmill"
+   ],
+   "progressionTypes": [
+    "duration",
+    "distance",
+    "pace"
+   ],
+   "instructions": [
+    "Start with 3 minutes walking.",
+    "Run at the set pace.",
+    "Cool down walking."
+   ],
+   "cues": [
+    "1% incline mimics outdoors"
+   ],
+   "mistakes": [
+    "Holding the rails"
+   ],
+   "tags": [
+    "cardio",
+    "running"
+   ],
+   "videos": []
+  },
+  {
+   "id": "stationary_cycle",
+   "name": "Stationary cycling",
+   "aliases": [],
+   "category": "Cardio",
+   "muscles": [
+    "legs",
+    "heart and lungs"
+   ],
+   "equipment": [
+    "cycle"
+   ],
+   "progressionTypes": [
+    "duration"
+   ],
+   "instructions": [
+    "Set the saddle at hip height.",
+    "Pedal at a steady effort.",
+    "Add resistance as it gets easy."
+   ],
+   "cues": [
+    "Light grip on the bars"
+   ],
+   "mistakes": [
+    "Saddle too low"
+   ],
+   "tags": [
+    "cardio",
+    "low-impact"
+   ],
+   "videos": []
+  },
+  {
+   "id": "outdoor_cycle",
+   "name": "Outdoor ride",
+   "aliases": [],
+   "category": "Cardio",
+   "muscles": [
+    "legs",
+    "heart and lungs"
+   ],
+   "equipment": [
+    "cycle_route"
+   ],
+   "progressionTypes": [
+    "duration",
+    "distance"
+   ],
+   "instructions": [
+    "Check the bike and wear a helmet.",
+    "Ride at a steady effort.",
+    "Stay on safe routes."
+   ],
+   "cues": [
+    "Cadence around 80–90"
+   ],
+   "mistakes": [
+    "Riding without lights at night"
+   ],
+   "tags": [
+    "cardio",
+    "low-impact"
+   ],
+   "videos": []
+  },
+  {
+   "id": "skipping",
+   "name": "Skipping rope",
+   "aliases": [],
+   "category": "Cardio",
+   "muscles": [
+    "calves",
+    "heart and lungs"
+   ],
+   "equipment": [
+    "rope"
+   ],
+   "progressionTypes": [
+    "duration"
+   ],
+   "instructions": [
+    "Rope length to the armpits.",
+    "Small jumps on the balls of the feet.",
+    "Turn from the wrists."
+   ],
+   "cues": [
+    "Soft landings"
+   ],
+   "mistakes": [
+    "Jumping too high"
+   ],
+   "tags": [
+    "cardio",
+    "conditioning"
+   ],
+   "videos": []
+  },
+  {
+   "id": "stair_climb",
+   "name": "Stair climbing",
+   "aliases": [],
+   "category": "Cardio",
+   "muscles": [
+    "legs",
+    "heart and lungs"
+   ],
+   "equipment": [
+    "stairs"
+   ],
+   "progressionTypes": [
+    "duration",
+    "reps"
+   ],
+   "instructions": [
+    "Walk up at a steady pace.",
+    "Walk down carefully to recover.",
+    "Repeat."
+   ],
+   "cues": [
+    "Use the rail if needed"
+   ],
+   "mistakes": [
+    "Running down"
+   ],
+   "tags": [
+    "cardio"
+   ],
+   "videos": []
+  },
+  {
+   "id": "swim",
+   "name": "Swimming",
+   "aliases": [],
+   "category": "Cardio",
+   "muscles": [
+    "whole body",
+    "heart and lungs"
+   ],
+   "equipment": [
+    "pool"
+   ],
+   "progressionTypes": [
+    "duration",
+    "distance"
+   ],
+   "instructions": [
+    "Warm up with easy lengths.",
+    "Swim the set at a steady effort.",
+    "Rest at the wall as needed."
+   ],
+   "cues": [
+    "Long, relaxed strokes"
+   ],
+   "mistakes": [
+    "Holding the breath"
+   ],
+   "tags": [
+    "cardio",
+    "low-impact"
+   ],
+   "videos": []
+  },
+  {
+   "id": "rowing",
+   "name": "Rowing machine",
+   "aliases": [],
+   "category": "Cardio",
+   "muscles": [
+    "back",
+    "legs",
+    "heart and lungs"
+   ],
+   "equipment": [
+    "rower"
+   ],
+   "progressionTypes": [
+    "duration",
+    "distance"
+   ],
+   "instructions": [
+    "Legs, then body, then arms.",
+    "Return arms, body, legs.",
+    "Steady rhythm."
+   ],
+   "cues": [
+    "Push with the legs"
+   ],
+   "mistakes": [
+    "Pulling with arms first"
+   ],
+   "tags": [
+    "cardio"
+   ],
+   "videos": []
+  },
+  {
+   "id": "jumping_jacks",
+   "name": "Jumping jacks",
+   "aliases": [],
+   "category": "Cardio",
+   "muscles": [
+    "whole body",
+    "heart and lungs"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "duration",
+    "reps"
+   ],
+   "instructions": [
+    "Jump feet out while raising the arms.",
+    "Jump back in.",
+    "Keep a steady rhythm."
+   ],
+   "cues": [
+    "Land softly"
+   ],
+   "mistakes": [
+    "Locked knees"
+   ],
+   "tags": [
+    "cardio",
+    "warm-up"
+   ],
+   "videos": []
+  },
+  {
+   "id": "burpee",
+   "name": "Burpee",
+   "aliases": [],
+   "category": "Cardio",
+   "muscles": [
+    "whole body",
+    "conditioning"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps",
+    "duration"
+   ],
+   "instructions": [
+    "Squat and put the hands down.",
+    "Jump or step back to a plank, then return.",
+    "Stand or jump up."
+   ],
+   "cues": [
+    "Step back instead of jumping to make it easier"
+   ],
+   "mistakes": [
+    "Sagging hips in the plank"
+   ],
+   "tags": [
+    "cardio",
+    "conditioning"
+   ],
+   "videos": []
+  },
+  {
+   "id": "cat_cow",
+   "name": "Cat–cow",
+   "aliases": [],
+   "category": "Mobility",
+   "muscles": [
+    "spine"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "reps",
+    "duration"
+   ],
+   "instructions": [
+    "On hands and knees.",
+    "Round the back up, then let it sag gently.",
+    "Move with the breath."
+   ],
+   "cues": [
+    "Slow and smooth"
+   ],
+   "mistakes": [
+    "Forcing the range"
+   ],
+   "tags": [
+    "mobility",
+    "warm-up"
+   ],
+   "videos": []
+  },
+  {
+   "id": "hip_flexor_stretch",
+   "name": "Half-kneeling hip flexor stretch",
+   "aliases": [],
+   "category": "Mobility",
+   "muscles": [
+    "hip flexors"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "duration"
+   ],
+   "instructions": [
+    "Kneel on one knee, other foot forward.",
+    "Squeeze the glute and shift forward.",
+    "Hold; switch sides."
+   ],
+   "cues": [
+    "Tuck the pelvis"
+   ],
+   "mistakes": [
+    "Arching the back"
+   ],
+   "tags": [
+    "mobility"
+   ],
+   "videos": []
+  },
+  {
+   "id": "hamstring_stretch",
+   "name": "Hamstring stretch",
+   "aliases": [],
+   "category": "Mobility",
+   "muscles": [
+    "hamstrings"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "duration"
+   ],
+   "instructions": [
+    "Lie on your back, one leg up.",
+    "Hold behind the thigh and straighten gently.",
+    "Hold; switch."
+   ],
+   "cues": [
+    "Keep the hips down"
+   ],
+   "mistakes": [
+    "Bouncing"
+   ],
+   "tags": [
+    "mobility"
+   ],
+   "videos": []
+  },
+  {
+   "id": "thoracic_rotation",
+   "name": "Open book rotation",
+   "aliases": [],
+   "category": "Mobility",
+   "muscles": [
+    "upper back"
+   ],
+   "equipment": [
+    "mat"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "Lie on your side, knees bent, arms together.",
+    "Open the top arm across to the other side.",
+    "Return; switch sides."
+   ],
+   "cues": [
+    "Follow the hand with your eyes"
+   ],
+   "mistakes": [
+    "Knees lifting"
+   ],
+   "tags": [
+    "mobility"
+   ],
+   "videos": []
+  },
+  {
+   "id": "worlds_greatest_stretch",
+   "name": "World's greatest stretch",
+   "aliases": [],
+   "category": "Mobility",
+   "muscles": [
+    "hips",
+    "hamstrings",
+    "upper back"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "Lunge forward, hand inside the front foot.",
+    "Rotate the inside arm to the ceiling.",
+    "Return; switch sides."
+   ],
+   "cues": [
+    "Back knee off the floor"
+   ],
+   "mistakes": [
+    "Rushing"
+   ],
+   "tags": [
+    "mobility",
+    "warm-up"
+   ],
+   "videos": []
+  },
+  {
+   "id": "deep_squat_hold",
+   "name": "Deep squat hold",
+   "aliases": [],
+   "category": "Mobility",
+   "muscles": [
+    "hips",
+    "ankles"
+   ],
+   "equipment": [
+    "none"
+   ],
+   "progressionTypes": [
+    "duration"
+   ],
+   "instructions": [
+    "Sit into the deepest squat you can with heels down.",
+    "Hold onto something if needed.",
+    "Breathe."
+   ],
+   "cues": [
+    "Chest up"
+   ],
+   "mistakes": [
+    "Heels lifting"
+   ],
+   "tags": [
+    "mobility"
+   ],
+   "videos": []
+  },
+  {
+   "id": "band_shoulder_dislocate",
+   "name": "Band shoulder pass-through",
+   "aliases": [],
+   "category": "Mobility",
+   "muscles": [
+    "shoulders"
+   ],
+   "equipment": [
+    "band"
+   ],
+   "progressionTypes": [
+    "reps"
+   ],
+   "instructions": [
+    "Hold a band wide.",
+    "Raise it overhead and behind with straight arms.",
+    "Bring it back."
+   ],
+   "cues": [
+    "Wider grip = easier"
+   ],
+   "mistakes": [
+    "Bending the elbows"
+   ],
+   "tags": [
+    "mobility",
+    "shoulders",
+    "band"
+   ],
+   "videos": []
+  },
+  {
+   "id": "band_bow_draw",
+   "name": "Band bow-draw hold",
+   "aliases": [],
+   "category": "Skill",
+   "muscles": [
+    "upper back",
+    "rear shoulders",
+    "grip"
+   ],
+   "equipment": [
+    "band"
+   ],
+   "progressionTypes": [
+    "variation",
+    "duration"
+   ],
+   "instructions": [
+    "Hold the band like a bow, front arm straight.",
+    "Draw to the corner of the mouth, back elbow high.",
+    "Hold, then release slowly. Alternate sides."
+   ],
+   "cues": [
+    "Pull with the back, not the hand"
+   ],
+   "mistakes": [
+    "Shrugging the draw shoulder"
+   ],
+   "tags": [
+    "archery",
+    "band"
+   ],
+   "videos": []
+  },
+  {
+   "id": "bow_draw_hold",
+   "name": "Bow draw and hold",
+   "aliases": [],
+   "category": "Skill",
+   "muscles": [
+    "upper back",
+    "rear shoulders"
+   ],
+   "equipment": [
+    "bow"
+   ],
+   "progressionTypes": [
+    "draw",
+    "duration"
+   ],
+   "instructions": [
+    "Draw your bow to anchor with good form.",
+    "Hold at anchor for the set time.",
+    "Let down slowly; never dry-fire."
+   ],
+   "cues": [
+    "Back tension, relaxed hand"
+   ],
+   "mistakes": [
+    "Dry-firing the bow"
+   ],
+   "tags": [
+    "archery"
+   ],
+   "videos": []
+  },
+  {
+   "id": "archery_practice",
+   "name": "Archery practice",
+   "aliases": [],
+   "category": "Skill",
+   "muscles": [
+    "upper back",
+    "shoulders",
+    "focus"
+   ],
+   "equipment": [
+    "bow"
+   ],
+   "progressionTypes": [
+    "shots",
+    "draw"
+   ],
+   "instructions": [
+    "Warm up with band draws.",
+    "Shoot the set number of arrows with full form.",
+    "Rest between ends of 6."
+   ],
+   "cues": [
+    "Same routine every shot"
+   ],
+   "mistakes": [
+    "Shooting tired"
+   ],
+   "tags": [
+    "archery"
+   ],
+   "videos": []
+  },
+  {
+   "id": "band_external_rotation",
+   "name": "Band external rotation",
+   "aliases": [],
+   "category": "Strength",
+   "muscles": [
+    "rotator cuff"
+   ],
+   "equipment": [
+    "band"
+   ],
+   "progressionTypes": [
+    "variation",
+    "reps"
+   ],
+   "instructions": [
+    "Elbow at your side, bent 90°.",
+    "Rotate the hand out against the band.",
+    "Return slowly."
+   ],
+   "cues": [
+    "Towel between elbow and ribs"
+   ],
+   "mistakes": [
+    "Elbow drifting"
+   ],
+   "tags": [
+    "shoulders",
+    "archery",
+    "band"
+   ],
+   "videos": []
+  }
+ ]
+}

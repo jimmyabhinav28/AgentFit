@@ -1,0 +1,1133 @@
+{
+ "version": 1,
+ "india": {
+  "common": [
+   {
+    "name": "Dal tadka",
+    "note": "Lentils tempered with spices",
+    "tags": [
+     "veg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Rajma",
+    "note": "Kidney bean curry",
+    "tags": [
+     "veg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Chole",
+    "note": "Spiced chickpea curry",
+    "tags": [
+     "veg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Paneer",
+    "note": "Fresh cottage cheese, many ways",
+    "tags": [
+     "veg",
+     "dairy",
+     "protein"
+    ]
+   },
+   {
+    "name": "Curd / dahi",
+    "note": "Plain yogurt",
+    "tags": [
+     "veg",
+     "dairy"
+    ]
+   },
+   {
+    "name": "Roti / chapati",
+    "note": "Whole wheat flatbread",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Rice",
+    "note": "Steamed rice",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Khichdi",
+    "note": "Rice and lentils cooked together",
+    "tags": [
+     "veg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Poha",
+    "note": "Flattened rice with peas and peanuts",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Upma",
+    "note": "Semolina with vegetables",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Sprouts salad",
+    "note": "Sprouted moong with onion and lemon",
+    "tags": [
+     "veg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Soya chunks",
+    "note": "High-protein soy pieces",
+    "tags": [
+     "veg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Tofu",
+    "note": "Soy curd",
+    "tags": [
+     "veg",
+     "protein",
+     "vegan"
+    ]
+   },
+   {
+    "name": "Besan chilla",
+    "note": "Chickpea-flour savoury pancake",
+    "tags": [
+     "veg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Moong dal",
+    "note": "Split green gram",
+    "tags": [
+     "veg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Palak",
+    "note": "Spinach dishes",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Bhindi",
+    "note": "Okra stir-fry",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Lauki",
+    "note": "Bottle gourd",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Karela",
+    "note": "Bitter gourd",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Baingan",
+    "note": "Brinjal / eggplant",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Aloo",
+    "note": "Potato dishes",
+    "tags": [
+     "veg",
+     "root_veg"
+    ]
+   },
+   {
+    "name": "Mixed veg sabzi",
+    "note": "Seasonal vegetables",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Egg bhurji",
+    "note": "Spiced scrambled eggs",
+    "tags": [
+     "egg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Boiled eggs",
+    "note": "Plain boiled eggs",
+    "tags": [
+     "egg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Omelette",
+    "note": "Masala omelette",
+    "tags": [
+     "egg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Chicken curry",
+    "note": "Home-style chicken curry",
+    "tags": [
+     "chicken",
+     "protein"
+    ]
+   },
+   {
+    "name": "Tandoori chicken",
+    "note": "Grilled spiced chicken",
+    "tags": [
+     "chicken",
+     "protein"
+    ]
+   },
+   {
+    "name": "Fish curry",
+    "note": "Fish in spiced gravy",
+    "tags": [
+     "fish",
+     "protein"
+    ]
+   },
+   {
+    "name": "Mutton curry",
+    "note": "Goat curry",
+    "tags": [
+     "mutton",
+     "protein"
+    ]
+   },
+   {
+    "name": "Peanuts",
+    "note": "Roasted or boiled peanuts",
+    "tags": [
+     "veg",
+     "protein"
+    ]
+   },
+   {
+    "name": "Makhana",
+    "note": "Roasted fox nuts",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Banana",
+    "note": "Banana",
+    "tags": [
+     "veg",
+     "fruit"
+    ]
+   },
+   {
+    "name": "Guava",
+    "note": "Guava",
+    "tags": [
+     "veg",
+     "fruit"
+    ]
+   },
+   {
+    "name": "Papaya",
+    "note": "Papaya",
+    "tags": [
+     "veg",
+     "fruit"
+    ]
+   },
+   {
+    "name": "Oats",
+    "note": "Oats porridge or savoury oats",
+    "tags": [
+     "veg"
+    ]
+   },
+   {
+    "name": "Buttermilk",
+    "note": "Spiced chaas",
+    "tags": [
+     "veg",
+     "dairy"
+    ]
+   }
+  ],
+  "regions": {
+   "south": [
+    {
+     "name": "Idli",
+     "note": "Steamed rice and lentil cakes",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Dosa",
+     "note": "Rice and lentil crepe",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Sambar",
+     "note": "Lentil and vegetable stew",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Rasam",
+     "note": "Tangy pepper broth",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Ragi mudde",
+     "note": "Finger millet balls",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Ragi dosa",
+     "note": "Finger millet crepe",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Pongal",
+     "note": "Rice and moong with pepper and ghee",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Curd rice",
+     "note": "Rice with yogurt",
+     "tags": [
+      "veg",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Avial",
+     "note": "Mixed vegetables in coconut and curd",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Beans palya",
+     "note": "Beans stir-fry with coconut",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Kootu",
+     "note": "Vegetables and lentils",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Pesarattu",
+     "note": "Green gram dosa",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Appam",
+     "note": "Fermented rice pancake",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Puttu",
+     "note": "Steamed rice flour and coconut",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Bisi bele bath",
+     "note": "Spiced rice, lentils and vegetables",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Lemon rice",
+     "note": "Rice with lemon and peanuts",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Coconut chutney",
+     "note": "Fresh coconut chutney",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Kerala fish curry",
+     "note": "Fish in coconut or kokum gravy",
+     "tags": [
+      "fish",
+      "protein"
+     ]
+    },
+    {
+     "name": "Chettinad chicken",
+     "note": "Peppery chicken curry",
+     "tags": [
+      "chicken",
+      "protein"
+     ]
+    },
+    {
+     "name": "Egg roast",
+     "note": "Kerala-style egg masala",
+     "tags": [
+      "egg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Sundal",
+     "note": "Spiced boiled chickpeas or beans",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Tender coconut",
+     "note": "Coconut water",
+     "tags": [
+      "veg"
+     ]
+    }
+   ],
+   "north": [
+    {
+     "name": "Aloo paratha",
+     "note": "Potato-stuffed flatbread",
+     "tags": [
+      "veg",
+      "root_veg"
+     ]
+    },
+    {
+     "name": "Paneer paratha",
+     "note": "Paneer-stuffed flatbread",
+     "tags": [
+      "veg",
+      "dairy",
+      "protein"
+     ]
+    },
+    {
+     "name": "Kadhi",
+     "note": "Yogurt and gram flour curry",
+     "tags": [
+      "veg",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Dal makhani",
+     "note": "Creamy black lentils",
+     "tags": [
+      "veg",
+      "dairy",
+      "protein"
+     ]
+    },
+    {
+     "name": "Sarson ka saag",
+     "note": "Mustard greens",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Makki roti",
+     "note": "Maize flatbread",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Paneer tikka",
+     "note": "Grilled spiced paneer",
+     "tags": [
+      "veg",
+      "dairy",
+      "protein"
+     ]
+    },
+    {
+     "name": "Palak paneer",
+     "note": "Paneer in spinach",
+     "tags": [
+      "veg",
+      "dairy",
+      "protein"
+     ]
+    },
+    {
+     "name": "Matar paneer",
+     "note": "Paneer with peas",
+     "tags": [
+      "veg",
+      "dairy",
+      "protein"
+     ]
+    },
+    {
+     "name": "Lassi",
+     "note": "Sweet or salted yogurt drink",
+     "tags": [
+      "veg",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Raita",
+     "note": "Yogurt with vegetables",
+     "tags": [
+      "veg",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Kulcha",
+     "note": "Leavened flatbread",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Chana masala",
+     "note": "Spiced chickpeas",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Butter chicken",
+     "note": "Chicken in tomato-butter gravy",
+     "tags": [
+      "chicken",
+      "protein"
+     ]
+    },
+    {
+     "name": "Chicken tikka",
+     "note": "Grilled chicken pieces",
+     "tags": [
+      "chicken",
+      "protein"
+     ]
+    },
+    {
+     "name": "Keema",
+     "note": "Minced meat curry",
+     "tags": [
+      "mutton",
+      "protein"
+     ]
+    },
+    {
+     "name": "Daliya",
+     "note": "Broken wheat porridge",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Sattu drink",
+     "note": "Roasted gram drink",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Gobhi sabzi",
+     "note": "Cauliflower stir-fry",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Arbi",
+     "note": "Taro root",
+     "tags": [
+      "veg",
+      "root_veg"
+     ]
+    }
+   ],
+   "east": [
+    {
+     "name": "Litti chokha",
+     "note": "Sattu-stuffed wheat balls with mash",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Sattu paratha",
+     "note": "Gram-flour stuffed flatbread",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Machher jhol",
+     "note": "Light Bengali fish curry",
+     "tags": [
+      "fish",
+      "protein"
+     ]
+    },
+    {
+     "name": "Shukto",
+     "note": "Bitter-sweet vegetable stew",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Cholar dal",
+     "note": "Bengal gram dal",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Aloo posto",
+     "note": "Potatoes in poppy seed paste",
+     "tags": [
+      "veg",
+      "root_veg"
+     ]
+    },
+    {
+     "name": "Dalma",
+     "note": "Lentils with vegetables",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Pakhala",
+     "note": "Fermented water rice",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Ghugni",
+     "note": "Dried pea curry",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Chingri malai",
+     "note": "Prawns in coconut",
+     "tags": [
+      "fish",
+      "protein"
+     ]
+    },
+    {
+     "name": "Egg curry",
+     "note": "Bengali egg curry",
+     "tags": [
+      "egg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Mishti doi",
+     "note": "Sweet yogurt",
+     "tags": [
+      "veg",
+      "dairy"
+     ]
+    },
+    {
+     "name": "Muri",
+     "note": "Puffed rice snack",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Chana chaat",
+     "note": "Chickpea salad",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Saag",
+     "note": "Leafy greens",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Kosha mangsho",
+     "note": "Slow-cooked mutton",
+     "tags": [
+      "mutton",
+      "protein"
+     ]
+    }
+   ],
+   "west": [
+    {
+     "name": "Poha",
+     "note": "Flattened rice with peanuts",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Thepla",
+     "note": "Spiced fenugreek flatbread",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Dhokla",
+     "note": "Steamed gram flour cake",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Khandvi",
+     "note": "Gram flour rolls",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Undhiyu",
+     "note": "Mixed winter vegetables",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Misal pav",
+     "note": "Sprout curry with bread",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Usal",
+     "note": "Sprouted bean curry",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Varan bhaat",
+     "note": "Plain dal and rice",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Bhakri",
+     "note": "Millet flatbread",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Pithla",
+     "note": "Gram flour curry",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Kokum curry",
+     "note": "Kokum and coconut drink/curry",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Sol kadhi",
+     "note": "Kokum and coconut milk",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Goan fish curry",
+     "note": "Coconut fish curry",
+     "tags": [
+      "fish",
+      "protein"
+     ]
+    },
+    {
+     "name": "Chicken xacuti",
+     "note": "Goan spiced chicken",
+     "tags": [
+      "chicken",
+      "protein"
+     ]
+    },
+    {
+     "name": "Sabudana khichdi",
+     "note": "Sago with peanuts",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Bajra roti",
+     "note": "Pearl millet flatbread",
+     "tags": [
+      "veg"
+     ]
+    }
+   ],
+   "northeast": [
+    {
+     "name": "Jadoh",
+     "note": "Rice cooked with meat",
+     "tags": [
+      "meat",
+      "protein"
+     ]
+    },
+    {
+     "name": "Masor tenga",
+     "note": "Sour fish curry",
+     "tags": [
+      "fish",
+      "protein"
+     ]
+    },
+    {
+     "name": "Thukpa",
+     "note": "Noodle soup",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Momos (veg)",
+     "note": "Steamed dumplings",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Momos (chicken)",
+     "note": "Steamed chicken dumplings",
+     "tags": [
+      "chicken",
+      "protein"
+     ]
+    },
+    {
+     "name": "Bamboo shoot curry",
+     "note": "Bamboo shoot with vegetables",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Black rice",
+     "note": "Fragrant black rice",
+     "tags": [
+      "veg"
+     ]
+    },
+    {
+     "name": "Axone dishes",
+     "note": "Fermented soybean",
+     "tags": [
+      "veg",
+      "protein"
+     ]
+    },
+    {
+     "name": "Smoked pork",
+     "note": "Smoked pork curry",
+     "tags": [
+      "pork",
+      "meat",
+      "protein"
+     ]
+    },
+    {
+     "name": "Khar",
+     "note": "Alkaline vegetable dish",
+     "tags": [
+      "veg"
+     ]
+    }
+   ]
+  }
+ },
+ "global": [
+  {
+   "name": "Oatmeal",
+   "note": "Oats with milk or water",
+   "tags": [
+    "veg"
+   ]
+  },
+  {
+   "name": "Greek yogurt",
+   "note": "Thick strained yogurt",
+   "tags": [
+    "veg",
+    "dairy",
+    "protein"
+   ]
+  },
+  {
+   "name": "Eggs",
+   "note": "Boiled, scrambled or omelette",
+   "tags": [
+    "egg",
+    "protein"
+   ]
+  },
+  {
+   "name": "Chicken breast",
+   "note": "Grilled or baked",
+   "tags": [
+    "chicken",
+    "protein"
+   ]
+  },
+  {
+   "name": "Salmon",
+   "note": "Baked or grilled",
+   "tags": [
+    "fish",
+    "protein"
+   ]
+  },
+  {
+   "name": "Tuna",
+   "note": "Canned or fresh",
+   "tags": [
+    "fish",
+    "protein"
+   ]
+  },
+  {
+   "name": "Beans",
+   "note": "Black, kidney or pinto",
+   "tags": [
+    "veg",
+    "protein"
+   ]
+  },
+  {
+   "name": "Lentils",
+   "note": "Lentil soup or salad",
+   "tags": [
+    "veg",
+    "protein"
+   ]
+  },
+  {
+   "name": "Tofu",
+   "note": "Stir-fried or baked",
+   "tags": [
+    "veg",
+    "protein",
+    "vegan"
+   ]
+  },
+  {
+   "name": "Quinoa",
+   "note": "Quinoa bowls",
+   "tags": [
+    "veg"
+   ]
+  },
+  {
+   "name": "Brown rice",
+   "note": "Brown rice",
+   "tags": [
+    "veg"
+   ]
+  },
+  {
+   "name": "Whole-wheat pasta",
+   "note": "Pasta",
+   "tags": [
+    "veg"
+   ]
+  },
+  {
+   "name": "Wholegrain bread",
+   "note": "Toast and sandwiches",
+   "tags": [
+    "veg"
+   ]
+  },
+  {
+   "name": "Cottage cheese",
+   "note": "Cottage cheese",
+   "tags": [
+    "veg",
+    "dairy",
+    "protein"
+   ]
+  },
+  {
+   "name": "Broccoli",
+   "note": "Broccoli",
+   "tags": [
+    "veg"
+   ]
+  },
+  {
+   "name": "Spinach",
+   "note": "Spinach",
+   "tags": [
+    "veg"
+   ]
+  },
+  {
+   "name": "Sweet potato",
+   "note": "Baked sweet potato",
+   "tags": [
+    "veg",
+    "root_veg"
+   ]
+  },
+  {
+   "name": "Avocado",
+   "note": "Avocado",
+   "tags": [
+    "veg"
+   ]
+  },
+  {
+   "name": "Peanut butter",
+   "note": "Peanut butter",
+   "tags": [
+    "veg",
+    "protein"
+   ]
+  },
+  {
+   "name": "Mixed nuts",
+   "note": "Almonds, walnuts, cashews",
+   "tags": [
+    "veg"
+   ]
+  },
+  {
+   "name": "Berries",
+   "note": "Berries",
+   "tags": [
+    "veg",
+    "fruit"
+   ]
+  },
+  {
+   "name": "Apple",
+   "note": "Apple",
+   "tags": [
+    "veg",
+    "fruit"
+   ]
+  },
+  {
+   "name": "Banana",
+   "note": "Banana",
+   "tags": [
+    "veg",
+    "fruit"
+   ]
+  },
+  {
+   "name": "Hummus",
+   "note": "Chickpea dip",
+   "tags": [
+    "veg",
+    "protein"
+   ]
+  }
+ ],
+ "regionKeys": {
+  "south": "bengaluru bangalore mysuru mysore mangaluru mangalore hubli karnataka chennai madurai coimbatore tamil nadu tiruchirappalli trichy salem kochi cochin kerala thiruvananthapuram trivandrum kozhikode calicut thrissur hyderabad secunderabad telangana warangal andhra pradesh vijayawada visakhapatnam vizag tirupati guntur puducherry pondicherry",
+  "north": "delhi new delhi noida gurugram gurgaon faridabad ghaziabad punjab chandigarh ludhiana amritsar jalandhar haryana panipat uttar pradesh lucknow kanpur agra varanasi prayagraj allahabad meerut uttarakhand dehradun himachal shimla jammu srinagar kashmir rajasthan jaipur jodhpur udaipur kota madhya pradesh bhopal indore gwalior jabalpur",
+  "east": "kolkata calcutta west bengal howrah siliguri durgapur bihar patna gaya bhagalpur muzaffarpur odisha bhubaneswar cuttack puri jharkhand ranchi jamshedpur dhanbad chhattisgarh raipur bilaspur",
+  "west": "mumbai bombay pune nagpur nashik thane navi mumbai aurangabad maharashtra gujarat ahmedabad surat vadodara baroda rajkot goa panaji margao",
+  "northeast": "assam guwahati dibrugarh shillong meghalaya manipur imphal nagaland kohima dimapur mizoram aizawl tripura agartala arunachal itanagar sikkim gangtok"
+ }
+}

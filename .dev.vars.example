@@ -1,0 +1,4 @@
+# Copy to .dev.vars for `npm run dev` (never commit .dev.vars)
+SESSION_SECRET=change-me-to-a-long-random-string-at-least-32-chars
+PLATFORM_API_KEY=
+DEV_AUTH=1

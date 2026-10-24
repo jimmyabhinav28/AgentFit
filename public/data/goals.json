@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "templates": {
+    "strength": [
+      { "id": "pushup_base", "title": "Build a push-up base", "detail": "20 clean push-ups in one go", "weeks": 8 },
+      { "id": "first_pullup", "title": "First pull-up", "detail": "One clean pull-up from a dead hang", "weeks": 12 },
+      { "id": "ten_pullups", "title": "10 pull-ups", "detail": "10 continuous pull-ups", "weeks": 20 },
+      { "id": "plank_2min", "title": "2-minute plank", "detail": "Hold a strict plank for 2 minutes", "weeks": 8 },
+      { "id": "dumbbell_strength", "title": "Heavier dumbbells", "detail": "Add 6–10 kg to your main dumbbell lifts", "weeks": 12 },
+      { "id": "bow_draw", "title": "Draw a heavier bow", "detail": "Build the pulling strength for a heavier draw weight", "weeks": 16 }
+    ],
+    "endurance": [
+      { "id": "run_5k", "title": "Run 5 km", "detail": "5 km without walk breaks", "weeks": 10 },
+      { "id": "run_10k", "title": "Run 10 km", "detail": "10 km at an easy pace", "weeks": 16 },
+      { "id": "faster_5k", "title": "Faster 5 km", "detail": "Take 2–3 minutes off your 5 km time", "weeks": 10 },
+      { "id": "sprint_400", "title": "Faster 400 m", "detail": "Sprint 400 m faster, then jog easily", "weeks": 12 },
+      { "id": "cycle_30k", "title": "Ride 30 km", "detail": "A steady 30 km ride", "weeks": 10 }
+    ],
+    "general": [
+      { "id": "move_daily", "title": "Move every day", "detail": "30 minutes of movement on most days", "weeks": 6 },
+      { "id": "lose_5kg", "title": "Lose 5 kg", "detail": "Lose about 5 kg with training and food together", "weeks": 16 },
+      { "id": "feel_stronger", "title": "Feel stronger", "detail": "Full-body strength twice a week", "weeks": 8 },
+      { "id": "mobility", "title": "Move more freely", "detail": "Touch your toes and squat deep comfortably", "weeks": 8 }
+    ]
+  }
+}
